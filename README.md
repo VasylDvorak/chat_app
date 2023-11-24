@@ -1,16 +1,25 @@
 # chat_app
 
-A new Flutter project.
+# A new Flutter project.
 
-## Getting Started
+ # Used technologies: Firebase cloud, Firebase authentication, Firebase database, Firebase notification, Firebase storage, Firebase messaging, List View, Image picker from smartphone’s camera.
+ 
 
-This project is a starting point for a Flutter application.
+Users can interchange the chat messages via Firebase. Also users can authenticate account in the application via Firebase and create Avatar image with camera of smartphone.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Chat_one](https://github.com/VasylDvorak/chat_app/assets/106032465/6690d7ec-a5ca-41b1-ba6b-95961b957500)
+
+
+![Chat_two](https://github.com/VasylDvorak/chat_app/assets/106032465/3441527d-a2f8-4de2-a349-b70e2b037f58)
+
+
+![Chat_three](https://github.com/VasylDvorak/chat_app/assets/106032465/d79f40f8-d18d-4b11-8c9d-17f63bca3828)
+
+
+
+![Chat_four](https://github.com/VasylDvorak/chat_app/assets/106032465/7e6c4493-28df-4c73-869d-afb33e549d94)
+
+
+
