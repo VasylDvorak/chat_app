@@ -5,7 +5,7 @@
  # Used technologies: Firebase cloud, Firebase authentication, Firebase database, Firebase notification, Firebase storage, Firebase messaging, List View, Image picker from smartphone’s camera.
  
 
-Users can interchange the chat messages via Firebase. Also users can authenticate account in the application via Firebase and create Avatar image with camera of smartphone.
+Users can interchange the chat messages via Firebase and receive message notifications. Also users can authenticate account in the application via Firebase and create Avatar image with camera of smartphone.
 
 
 
