@@ -1,4 +1,4 @@
-# chat_app
+# Chat for Users.
 
 # A new Flutter project.
 
